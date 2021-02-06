@@ -1,0 +1,16 @@
+D:\Github_Repositories\MyWinfromsTest\bin\Debug\net5.0-windows\MyWinfromsTest.exe
+D:\Github_Repositories\MyWinfromsTest\bin\Debug\net5.0-windows\MyWinfromsTest.deps.json
+D:\Github_Repositories\MyWinfromsTest\bin\Debug\net5.0-windows\MyWinfromsTest.runtimeconfig.json
+D:\Github_Repositories\MyWinfromsTest\bin\Debug\net5.0-windows\MyWinfromsTest.runtimeconfig.dev.json
+D:\Github_Repositories\MyWinfromsTest\bin\Debug\net5.0-windows\MyWinfromsTest.dll
+D:\Github_Repositories\MyWinfromsTest\bin\Debug\net5.0-windows\ref\MyWinfromsTest.dll
+D:\Github_Repositories\MyWinfromsTest\bin\Debug\net5.0-windows\MyWinfromsTest.pdb
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\MyWinfromsTest.csprojAssemblyReference.cache
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\MyWinfromsTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\MyWinfromsTest.AssemblyInfoInputs.cache
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\MyWinfromsTest.AssemblyInfo.cs
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\MyWinfromsTest.csproj.CoreCompileInputs.cache
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\MyWinfromsTest.dll
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\ref\MyWinfromsTest.dll
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\MyWinfromsTest.pdb
+D:\Github_Repositories\MyWinfromsTest\obj\Debug\net5.0-windows\MyWinfromsTest.genruntimeconfig.cache
